@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# hiding local DB
+.db
+
+# hiding sass-cache
+.sass-cache/*
